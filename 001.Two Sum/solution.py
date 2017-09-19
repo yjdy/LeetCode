@@ -6,17 +6,12 @@ Created on Tue Sep 19 11:10:32 2017
 """
 
 class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        for i,num in enumerate(nums):
-            num2 = target-num
-            j = nums[i+1:].index(num2)
-            if j >=0:
-                return [nums.index(num),nums.index(num2)]
+    def twoSum(self,nums, target):
+        diction={}
+        for i in range(len(nums)):
+            if (target-nums[i] in diction) and diction[target-nums[i]]!=i:
+                return [diction[target-nums[i]],i]
+            diction[nums[i]]=i
             
 if __name__ == '__main__':
     nums = [3,2,4]
