@@ -12,7 +12,7 @@ class Solution(object):
             if (target-nums[i] in diction) and diction[target-nums[i]]!=i:
                 return [diction[target-nums[i]],i]
             diction[nums[i]]=i
-            
+        
 if __name__ == '__main__':
     nums = [3,2,4]
     target = 6

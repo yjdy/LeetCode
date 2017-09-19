@@ -140,7 +140,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |133|[Candy][133]|[C++](133.%20Candy/solution.h)|2/24/2015|Hard|
 |134|[Find Minimum in Rotated Sorted Array II][134]|[C++](134.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.h)|2/25/2015|Hard|
 |135|[Word Ladder][135]|[C++](135.%20Word%20Ladder/solution.h)|2/26/2015|Medium|
-|136|[Single Number][1]|[C++,python](001.%20Single%20Number/solution.h,solution.py)|9/19/2017|Medium|
+|136|[Single Number][136]|[C++,python](001.%20Single%20Number/solution.h,solution.py)|9/19/2017|Medium|
 |137|[Palindrome Partitioning II][137]|[C++](137.%20Palindrome%20Partitioning%20II/solution.h)|2/28/2015|Hard|
 |138|[Minimum Window Substring][138]|[C++](138.%20Minimum%20Window%20Substring/solution.h)|3/1/2015|Hard|
 |139|[Substring with Concatenation of All Words][139]|[C++](139.%20Substring%20with%20Concatenation%20of%20All%20Words/solution.h)|3/2/2015|Hard|
@@ -293,7 +293,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [131]:https://oj.leetcode.com/problems/longest-valid-parentheses/
 [132]:https://oj.leetcode.com/problems/interleaving-string/
 [133]:https://oj.leetcode.com/problems/candy/
-[134]:https://oj.leetcode.com/problems/word-ladder/
+[135]:https://oj.leetcode.com/problems/word-ladder/
 [136]:https://oj.leetcode.com/problems/single-number/
 [136]:https://oj.leetcode.com/problems/palindrome-partitioning-ii/
 [137]:https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
