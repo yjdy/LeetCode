@@ -1,11 +1,11 @@
 LeetCode
 ========
-
-LeetCode solutions in C++ 11. (From Easy to Hard)
+yjdy's solution of leetcode
+Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
-|1|[Single Number][1]|[C++](001.%20Single%20Number/solution.h)|2014/10/15|Medium|
+|1|[Two Sum][136]|[C++,python](136.%20Two%20Sum/solution.h,solution.py)|9/19/2017|Easy|
 |2|[Maximum Depth of Binary Tree][2]|[C++](002.%20Maximum%20Depth%20of%20Binary%20Tree/solution.h)|2014/10/16|Easy|
 |3|[Same Tree][3]|[C++](003.%20Same%20Tree/solution.h)|2014/10/17|Easy|
 |4|[Reverse Integer][4]|[C++](004.%20Reverse%20Integer/solution.h)|2014/10/18|Easy|
@@ -140,7 +140,7 @@ LeetCode solutions in C++ 11. (From Easy to Hard)
 |133|[Candy][133]|[C++](133.%20Candy/solution.h)|2/24/2015|Hard|
 |134|[Find Minimum in Rotated Sorted Array II][134]|[C++](134.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/solution.h)|2/25/2015|Hard|
 |135|[Word Ladder][135]|[C++](135.%20Word%20Ladder/solution.h)|2/26/2015|Medium|
-|136|[Two Sum][136]|[C++](136.%20Two%20Sum/solution.h)|2/27/2015|Medium|
+|136|[Single Number][1]|[C++,python](001.%20Single%20Number/solution.h,solution.py)|9/19/2017|Medium|
 |137|[Palindrome Partitioning II][137]|[C++](137.%20Palindrome%20Partitioning%20II/solution.h)|2/28/2015|Hard|
 |138|[Minimum Window Substring][138]|[C++](138.%20Minimum%20Window%20Substring/solution.h)|3/1/2015|Hard|
 |139|[Substring with Concatenation of All Words][139]|[C++](139.%20Substring%20with%20Concatenation%20of%20All%20Words/solution.h)|3/2/2015|Hard|
@@ -160,7 +160,7 @@ LeetCode solutions in C++ 11. (From Easy to Hard)
 |153|[Valid Number][153]|[C++](153.%20Valid%20Number/solution.h)|3/16/2015|Hard|
 |154|[Max Points on a Line][154]|[C++](154.%20Max%20Points%20on%20a%20Line/solution.h)|3/17/2015|Hard|
 
-[1]:https://oj.leetcode.com/problems/single-number/
+[1]:https://oj.leetcode.com/problems/two-sum/
 [2]:https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
 [3]:https://oj.leetcode.com/problems/same-tree/
 [4]:https://oj.leetcode.com/problems/reverse-integer/
@@ -294,7 +294,7 @@ LeetCode solutions in C++ 11. (From Easy to Hard)
 [132]:https://oj.leetcode.com/problems/interleaving-string/
 [133]:https://oj.leetcode.com/problems/candy/
 [134]:https://oj.leetcode.com/problems/word-ladder/
-[135]:https://oj.leetcode.com/problems/two-sum/
+[136]:https://oj.leetcode.com/problems/single-number/
 [136]:https://oj.leetcode.com/problems/palindrome-partitioning-ii/
 [137]:https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [138]:https://oj.leetcode.com/problems/minimum-window-substring/
