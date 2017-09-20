@@ -5,10 +5,10 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
-|1|[Two Sum][136]|[C++,python](136.%20Two%20Sum/solution.h,solution.py)|9/19/2017|Easy|
-|2|[Add Two Numbers][2]|[python](102.%20Add%20Two%20Numbers/solution.py)|9/20/2017|Medium|
+|1|[Two Sum][136]|[C++,python](001.%20Two%20Sum/solution.h,solution.py)|9/19/2017|Easy|
+|2|[Add Two Numbers][2]|[python](002.%20Add%20Two%20Numbers/solution.py)|9/20/2017|Medium|
 |3|[Same Tree][3]|[C++](003.%20Same%20Tree/solution.h)|2014/10/17|Easy|
-|4|[Median of Two Sorted Arrays][4]|[python]|9/19/2017|Hard| 
+|4|[Median of Two Sorted Arrays][4]|[python](004.%20Median%20of%20Two%20Sorted%20Arrays/solution.py)|9/19/2017|Hard| 
 |3|[Same Tree][3]|[C++](003.%20Same%20Tree/solution.h)|2014/10/17|Easy|
 |5|[Best Time to Buy and Sell Stock II][5]|[C++](005.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.h)|2014/10/19|Medium|
 |6|[Unique Binary Search Trees][6]|[C++](006.%20Unique%20Binary%20Search%20Trees/solution.h)|2014/10/20|Medium|
