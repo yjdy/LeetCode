@@ -21,7 +21,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |12|[Remove Duplicates from Sorted List][12]|[C++](012.%20Remove%20Duplicates%20from%20Sorted%20List/solution.h)|10/26/2014|Easy|
 |13|[Climbing Stairs][13]|[C++](013.%20Climbing%20Stairs/solution.h)|10/27/2014|Easy|
 |14|[Maximum Subarray][14]|[C++](014.%20Maximum%20Subarray/solution.h)|10/28/2014|Medium|
-|15|[N-Queens II][15]|[C++](015.%20N-Queens%20II/solution.h)|10/29/2014|Hard|
+|15|[3Sum][15]|[python](015.%3%20Sum/solution.py)|9/22/2017|Median|
 |16|[Roman to Integer][16]|[C++](016.%20Roman%20to%20Integer/solution.h)|10/30/2014|Easy|
 |17|[Integer to Roman][17]|[C++](017.%20Integer%20to%20Roman/solution.h)|10/31/2014|Medium|
 |18|[Single Number II][18]|[C++](018.%20Single%20Number%20II/solution.h)|11/1/2014|Medium|
@@ -161,6 +161,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |152|[Word Ladder II][152]|[C++](152.%20Word%20Ladder%20II/solution.h)|3/15/2015|Hard|
 |153|[Valid Number][153]|[C++](153.%20Valid%20Number/solution.h)|3/16/2015|Hard|
 |154|[Max Points on a Line][154]|[C++](154.%20Max%20Points%20on%20a%20Line/solution.h)|3/17/2015|Hard|
+|155|[N-Queens II][155]|[C++](015.%20N-Queens%20II/solution.h)|10/29/2014|Hard|
 
 [1]:https://oj.leetcode.com/problems/two-sum/
 [2]:https://oj.leetcode.com/problems/add-two-numbers/
@@ -177,7 +178,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [12]:https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/
 [13]:https://oj.leetcode.com/problems/climbing-stairs/
 [14]:https://oj.leetcode.com/problems/maximum-subarray/
-[15]:https://oj.leetcode.com/problems/n-queens-ii/
+[15]:https://leetcode.com/problems/3sum/description/
 [16]:https://oj.leetcode.com/problems/roman-to-integer/
 [17]:https://oj.leetcode.com/problems/integer-to-roman/
 [18]:https://oj.leetcode.com/problems/single-number-ii/
@@ -317,3 +318,4 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [152]:https://oj.leetcode.com/problems/word-ladder-ii/
 [153]:https://oj.leetcode.com/problems/valid-number/
 [154]:https://oj.leetcode.com/problems/max-points-on-a-line/
+[155]:https://oj.leetcode.com/problems/n-queens-ii/
