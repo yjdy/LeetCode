@@ -7,6 +7,7 @@ double pow(double x, int n) {
     return std::pow(x, n);
 }
 ```
+实测python的math.pow()效率还没有自己编写的高(这个很奇怪了？)
 
 竟然也能以最高效的方式 AC，真是让人捧腹大笑。
 

@@ -56,7 +56,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |47|[Populating Next Right Pointers in Each Node II][47]|[C++](047.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/solution.h)|11/30/2014|Hard|
 |48|[Binary Tree Level Order Traversal][48]|[C++](048.%20Binary%20Tree%20Level%20Order%20Traversal/solution.h)|12/1/2014|Easy|
 |49|[Path Sum][49]|[C++](049.%20Path%20Sum/solution.h)|12/2/2014|Easy|
-|50|[Pascal's Triangle II][50]|[C++](050.%20Pascal's%20Triangle%20II/solution.h)|12/3/2014|Easy|
+|50|[Pow(x, n)][50]|[C++](050.%20Pow(x,%20n)/solution.py)|10/10/2017|Medium|
 |51|[Combinations][51]|[C++](051.%20Combinations/solution.h)|12/4/2014|Medium|
 |52|[Sum Root to Leaf Numbers][52]|[C++](052.%20Sum%20Root%20to%20Leaf%20Numbers/solution.h)|12/5/2014|Medium|
 |53|[Remove Nth Node from End of List][53]|[C++](053.%20Remove%20Nth%20Node%20from%20End%20of%20List/solution.h)|12/6/2014|Easy|
@@ -88,7 +88,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |79|[Construct Binary Tree from Preorder and Inorder Traversal][79]|[C++](079.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/solution.h)|1/1/2015|Medium|
 |80|[Letter Combinations of a Phone Number][80]|[C++](080.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.h)|1/2/2015|Medium|
 |81|[Reverse Linked List II][81]|[C++](081.%20Reverse%20Linked%20List%20II/solution.h)|1/3/2015|Medium|
-|82|[Pow(x, n)][82]|[C++](082.%20Pow(x,%20n)/solution.h)|1/4/2015|Medium|
+|82|[Pascal's Triangle II][82]|[C++](082.%20Pascal's%20Triangle%20II/solution.h)|12/3/2014|Easy|
 |83|[N-Queens][83]|[C++](083.%20N-Queens/solution.h)|1/5/2015|Hard|
 |84|[Gas Station][84]|[C++](084.%20Gas%20Station/solution.h)|1/6/2015|Medium|
 |85|[Palindrome Partitioning][85]|[C++](085.%20Palindrome%20Partitioning/solution.h)|1/7/2015|Medium|
