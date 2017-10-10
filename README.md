@@ -20,27 +20,27 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |11|[Search Insert Position][11]|[C++](011.%20Search%20Insert%20Position/solution.h)|10/25/2014|Medium|
 |12|[Remove Duplicates from Sorted List][12]|[C++](012.%20Remove%20Duplicates%20from%20Sorted%20List/solution.h)|10/26/2014|Easy|
 |13|[Climbing Stairs][13]|[C++](013.%20Climbing%20Stairs/solution.h)|10/27/2014|Easy|
-|14|[Maximum Subarray][14]|[C++](014.%20Maximum%20Subarray/solution.h)|10/28/2014|Medium|
+|14|[Longest Common Prefix][14]|[python](014.%20Longest%20Common%20Prefix/solution.py)|10/9/2017|Easy|
 |15|[3Sum][15]|[python](015.%3%20Sum/solution.py)|9/22/2017|Median|
 |16|[Roman to Integer][16]|[C++](016.%20Roman%20to%20Integer/solution.h)|10/30/2014|Easy|
 |17|[Integer to Roman][17]|[C++](017.%20Integer%20to%20Roman/solution.h)|10/31/2014|Medium|
 |18|[Single Number II][18]|[C++](018.%20Single%20Number%20II/solution.h)|11/1/2014|Medium|
 |19|[Convert Sorted Array to Binary Search Tree][19]|[C++](019.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.h)|11/4/2014|Medium|
-|20|[Remove Element][20]|[C++](020.%20Remove%20Element/solution.h)|11/3/2014|Easy|
+|20|[Symmetric Tree][20]|[C++](020.%20Symmetric%20Tree/solution.h)|11/10/2014|Easy|
 |21|[Merge Two Sorted Lists][21]|[C++](021.%20Merge%20Two%20Sorted%20Lists/solution.py)|10/6/2017|Easy|
 |22|[Balanced Binary Tree][22]|[C++](022.%20Balanced%20Binary%20Tree/solution.h)|11/5/2014|Easy|
 |23|[Swap Nodes in Pairs][23]|[C++](023.%20Swap%20Nodes%20in%20Pairs/solution.h)|11/6/2014|Medium|
 |24|[Remove Duplicates from Sorted Array][24]|[C++](024.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.h)|11/7/2014|Easy|
 |25|[Sort Colors][25]|[C++](025.%20Sort%20Colors/solution.h)|11/8/2014|Medium|
 |26|[Merge Sorted Array][26]|[C++](026.%20Merge%20Sorted%20Array/solution.h)|11/9/2014|Easy|
-|27|[Symmetric Tree][27]|[C++](027.%20Symmetric%20Tree/solution.h)|11/10/2014|Easy|
+|27|[Remove Element][27]|[C++,python](027.%20Remove%20Element/solution.h,solution.py)|10/9/2017|Easy|
 |28|[Gray Code][28]|[C++](028.%20Gray%20Code/solution.h)|11/11/2014|Medium|
 |29|[Unique Paths][29]|[C++](029.%20Unique%20Paths/solution.h)|11/12/2014|Medium|
 |30|[Plus One][30]|[C++](030.%20Plus%20One/solution.h)|11/13/2014|Easy|
 |31|[Generate Parentheses][31]|[C++](031.%20Generate%20Parentheses/solution.h)|11/14/2014|Medium|
 |32|[Pascal's Triangle][32]|[C++](032.%20Pascal's%20Triangle/solution.h)|11/15/2014|Easy|
 |33|[Container With Most Water][33]|[C++](033.%20Container%20With%20Most%20Water/solution.h)|11/16/2014|Medium|
-|34|[Permutations][34]|[C++](034.%20Permutations/solution.h)|11/17/2014|Medium|
+|34|[Search for a Range][34]|[python](034.%20Search%20for%20a%20Range/solution.py)|10/10/2017|Medium|
 |35|[Rotate Image][35]|[C++](035.%20Rotate%20Image/solution.h)|11/18/2014|Medium|
 |36|[Search a 2D Matrix][36]|[C++](036.%20Search%20a%202D%20Matrix/solution.h)|11/19/2014|Medium|
 |37|[Find Minimum in Rotated Sorted Array][37]|[C++](037.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.h)|11/20/2014|Medium|
@@ -73,10 +73,10 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |64|[Valid Sudoku][64]|[C++](064.%20Valid%20Sudoku/solution.h)|12/17/2014|Easy|
 |65|[Unique Binary Search Trees II][65]|[C++](065.%20Unique%20Binary%20Search%20Trees%20II/solution.h)|12/18/2014|Medium|
 |66|[Convert Sorted List to Binary Search Tree][66]|[C++](066.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/solution.h)|12/19/2014|Medium|
-|67|[Search for a Range][67]|[C++](067.%20Search%20for%20a%20Range/solution.h)|12/20/2014|Medium|
+|67|[Permutations][67]|[C++](067.%20Permutations/solution.h)|11/17/2014|Medium|
 |68|[Jump Game][68]|[C++](068.%20Jump%20Game/solution.h)|12/21/2014|Medium|
 |69|[Count and Say][69]|[C++](069.%20Count%20and%20Say/solution.h)|12/22/2014|Easy|
-|70|[Longest Common Prefix][70]|[C++](070.%20Longest%20Common%20Prefix/solution.h)|12/23/2014|Easy|
+|70|[Maximum Subarray][70]|[C++](070.%20Maximum%20Subarray/solution.h)|10/28/2014|Medium|
 |71|[Subsets II][71]|[C++](071.%20Subsets%20II/solution.h)|12/24/2014|Medium|
 |72|[Partition List][72]|[C++](072.%20Partition%20List/solution.h)|12/25/2014|Medium|
 |73|[3Sum Closest][73]|[C++](073.%203Sum%20Closest/solution.h)|12/26/2014|Medium|
@@ -177,27 +177,27 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [11]:https://oj.leetcode.com/problems/search-insert-position/
 [12]:https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/
 [13]:https://oj.leetcode.com/problems/climbing-stairs/
-[14]:https://oj.leetcode.com/problems/maximum-subarray/
+[14]:https://oj.leetcode.com/problems/longest-common-prefix/
 [15]:https://leetcode.com/problems/3sum/description/
 [16]:https://oj.leetcode.com/problems/roman-to-integer/
 [17]:https://oj.leetcode.com/problems/integer-to-roman/
 [18]:https://oj.leetcode.com/problems/single-number-ii/
 [19]:https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-[20]:https://oj.leetcode.com/problems/remove-element/
+[20]:https://oj.leetcode.com/problems/symmetric-tree/
 [21]:https://oj.leetcode.com/problems/merge-two-sorted-lists/
 [22]:https://oj.leetcode.com/problems/balanced-binary-tree/
 [23]:https://oj.leetcode.com/problems/swap-nodes-in-pairs/
 [24]:https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/
 [25]:https://oj.leetcode.com/problems/sort-colors/
 [26]:https://oj.leetcode.com/problems/merge-sorted-array/
-[27]:https://oj.leetcode.com/problems/symmetric-tree/
+[27]:https://oj.leetcode.com/problems/remove-element/
 [28]:https://oj.leetcode.com/problems/gray-code/
 [29]:https://oj.leetcode.com/problems/unique-paths/
 [30]:https://oj.leetcode.com/problems/plus-one/
 [31]:https://oj.leetcode.com/problems/generate-parentheses/
 [32]:https://oj.leetcode.com/problems/pascals-triangle/
 [33]:https://oj.leetcode.com/problems/container-with-most-water/
-[34]:https://oj.leetcode.com/problems/permutations/
+[34]:https://oj.leetcode.com/problems/search-for-a-range/
 [35]:https://oj.leetcode.com/problems/rotate-image/
 [36]:https://oj.leetcode.com/problems/search-a-2d-matrix/
 [37]:https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
@@ -230,10 +230,10 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [64]:https://oj.leetcode.com/problems/valid-sudoku/
 [65]:https://oj.leetcode.com/problems/unique-binary-search-trees-ii/
 [66]:https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
-[67]:https://oj.leetcode.com/problems/search-for-a-range/
+[67]:https://oj.leetcode.com/problems/permutations/
 [68]:https://oj.leetcode.com/problems/jump-game/
 [69]:https://oj.leetcode.com/problems/count-and-say/
-[70]:https://oj.leetcode.com/problems/longest-common-prefix/
+[70]:https://oj.leetcode.com/problems/maximum-subarray/
 [71]:https://oj.leetcode.com/problems/subsets-ii/
 [72]:https://oj.leetcode.com/problems/partition-list/
 [73]:https://oj.leetcode.com/problems/3sum-closest/
