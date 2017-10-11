@@ -49,7 +49,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |40|[Binary Tree Level Order Traversal II][40]|[C++](040.%20Binary%20Tree%20Level%20Order%20Traversal%20II/solution.h)|11/23/2014|Easy|
 |41|[Search in Rotated Sorted Array II][41]|[C++](041.%20Search%20in%20Rotated%20Sorted%20Array%20II/solution.h)|11/24/2014|Medium|
 |42|[Binary Tree Postorder Traversal][42]|[C++](042.%20Binary%20Tree%20Postorder%20Traversal/solution.h)|11/25/2014|Hard|
-|43|[Linked List Cycle II][43]|[C++](043.%20Linked%20List%20Cycle%20II/solution.h)|11/26/2014|Medium|
+|43|[Multiply Strings][43]|[python](043.%20Multiply%20Strings/solution.h)|10/11/2017|Medium|
 |44|[Set Matrix Zeroes][44]|[C++](044.%20Set%20Matrix%20Zeroes/solution.h)|11/27/2014|Medium|
 |45|[Spiral Matrix II][45]|[C++](045.%20Spiral%20Matrix%20II/solution.h)|11/28/2014|Medium|
 |46|[Remove Duplicates from Sorted Array II][46]|[C++](046.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.h)|11/29/2014|Medium|
@@ -130,7 +130,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |121|[Spiral Matrix][121]|[C++](121.%20Spiral%20Matrix/solution.h)|2/12/2015|Medium|
 |122|[Sort List][122]|[C++](122.%20Sort%20List/solution.h)|2/13/2015|Medium|
 |123|[Restore IP Addresses][123]|[C++](123.%20Restore%20IP%20Addresses/solution.h)|2/14/2015|Medium|
-|124|[Multiply Strings][124]|[C++](124.%20Multiply%20Strings/solution.h)|2/15/2015|Medium|
+|124|[Linked List Cycle II][124]|[C++](124.%20Linked%20List%20Cycle%20II/solution.h)|11/26/2014|Medium|
 |125|[Reorder List][125]|[C++](125.%20Reorder%20List/solution.h)|2/16/2015|Medium|
 |126|[Binary Tree Maximum Path Sum][126]|[C++](126.%20Binary%20Tree%20Maximum%20Path%20Sum/solution.h)|2/17/2015|Hard|
 |127|[Regular Expression Matching][127]|[C++](127.%20Regular%20Expression%20Matching/solution.h)|2/18/2015|Hard|
@@ -206,7 +206,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [40]:https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [41]:https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [42]:https://oj.leetcode.com/problems/binary-tree-postorder-traversal/
-[43]:https://oj.leetcode.com/problems/linked-list-cycle-ii/
+[43]:https://oj.leetcode.com/problems/multiply-strings/
 [44]:https://oj.leetcode.com/problems/set-matrix-zeroes/
 [45]:https://oj.leetcode.com/problems/spiral-matrix-ii/
 [46]:https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
@@ -287,7 +287,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [121]:https://oj.leetcode.com/problems/spiral-matrix/
 [122]:https://oj.leetcode.com/problems/sort-list/
 [123]:https://oj.leetcode.com/problems/restore-ip-addresses/
-[124]:https://oj.leetcode.com/problems/multiply-strings/
+[124]:https://oj.leetcode.com/problems/linked-list-cycle-ii/
 [125]:https://oj.leetcode.com/problems/reorder-list/
 [126]:https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/
 [127]:https://oj.leetcode.com/problems/regular-expression-matching/
