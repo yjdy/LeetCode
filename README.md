@@ -13,7 +13,6 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |5|[Best Time to Buy and Sell Stock II][5]|[C++](005.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.h)|2014/10/19|Medium|
 |6|[Unique Binary Search Trees][6]|[C++](006.%20Unique%20Binary%20Search%20Trees/solution.h)|2014/10/20|Medium|
 |7|[Reverse Integer][7]|[C++](004.%20Reverse%20Integer/solution.h)|2014/10/18|Easy|
-|7|[Linked List Cycle][7]|[C++](007.%20Linked%20List%20Cycle/solution.h)|10/21/2014|Medium|
 |8|[Binary Tree Inorder Traversal][8]|[C++](008.%20Binary%20Tree%20Inorder%20Traversal/solution.h)|10/22/2014|Medium|
 |9|[Binary Tree Preorder Traversal][9]|[C++](009.%20Binary%20Tree%20Preorder%20Traversal/solution.h)|10/23/2014|Medium|
 |10|[Populating Next Right Pointers in Each Node][10]|[C++](010.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/solution.h)|10/24/2014|Medium|
@@ -32,7 +31,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |23|[Swap Nodes in Pairs][23]|[C++](023.%20Swap%20Nodes%20in%20Pairs/solution.h)|11/6/2014|Medium|
 |24|[Remove Duplicates from Sorted Array][24]|[C++](024.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.h)|11/7/2014|Easy|
 |25|[Sort Colors][25]|[C++](025.%20Sort%20Colors/solution.h)|11/8/2014|Medium|
-|26|[Merge Sorted Array][26]|[C++](026.%20Merge%20Sorted%20Array/solution.h)|11/9/2014|Easy|
+|26|[Edit Distance][26]|[C++](026.%20Edit%20Distance/solution.h)|1/10/2015|Hard|
 |27|[Remove Element][27]|[C++,python](027.%20Remove%20Element/solution.h,solution.py)|10/9/2017|Easy|
 |28|[Gray Code][28]|[C++](028.%20Gray%20Code/solution.h)|11/11/2014|Medium|
 |29|[Unique Paths][29]|[C++](029.%20Unique%20Paths/solution.h)|11/12/2014|Medium|
@@ -94,7 +93,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |85|[Palindrome Partitioning][85]|[C++](085.%20Palindrome%20Partitioning/solution.h)|1/7/2015|Medium|
 |86|[Validate Binary Search Tree][86]|[C++](086.%20Validate%20Binary%20Search%20Tree/solution.h)|1/8/2015|Medium|
 |87|[Add Binary][87]|[C++](087.%20Add%20Binary/solution.h)|1/9/2015|Easy|
-|88|[Edit Distance][88]|[C++](088.%20Edit%20Distance/solution.h)|1/10/2015|Hard|
+|88|[Merge Sorted Array][88]|[C++,python](088.%20Merge%20Sorted%20Array/solution.py)|10/18/2017|Easy|
 |89|[Next Permutation][89]|[C++](089.%20Next%20Permutation/solution.h)|1/11/2015|Medium|
 |90|[Insertion Sort List][90]|[C++](090.%20Insertion%20Sort%20List/solution.h)|1/12/2015|Medium|
 |91|[Reverse Nodes in k-Group][91]|[C++](091.%20Reverse%20Nodes%20in%20k-Group/solution.h)|1/13/2015|Hard|
@@ -147,7 +146,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |138|[Minimum Window Substring][138]|[C++](138.%20Minimum%20Window%20Substring/solution.h)|3/1/2015|Hard|
 |139|[Substring with Concatenation of All Words][139]|[C++](139.%20Substring%20with%20Concatenation%20of%20All%20Words/solution.h)|3/2/2015|Hard|
 |140|[Median of Two Sorted Arrays][140]|[C++](140.%20Median%20of%20Two%20Sorted%20Arrays/solution.h)|3/3/2015|Hard|
-|141|[3Sum][141]|[C++](141.%203Sum/solution.h)|3/4/2015|Medium|
+|141|[Linked List Cycle][141]|[python](141.%20Linked%20List%20Cycle/solution.py)|10/18/2017|Medium|
 |142|[Divide Two Integers][142]|[C++](142.%20Divide%20Two%20Integers/solution.h)|3/5/2015|Medium|
 |143|[Word Break II][143]|[C++](143.%20Word%20Break%20II/solution.h)|3/6/2015|Hard|
 |144|[Decode Ways][144]|[C++](144.%20Decode%20Ways/solution.h)|3/7/2015|Medium|
@@ -162,6 +161,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 |153|[Valid Number][153]|[C++](153.%20Valid%20Number/solution.h)|3/16/2015|Hard|
 |154|[Max Points on a Line][154]|[C++](154.%20Max%20Points%20on%20a%20Line/solution.h)|3/17/2015|Hard|
 |155|[N-Queens II][155]|[C++](015.%20N-Queens%20II/solution.h)|10/29/2014|Hard|
+|156|[3Sum][156]|[C++](156.%203Sum/solution.h)|3/4/2015|Medium|
 
 [1]:https://oj.leetcode.com/problems/two-sum/
 [2]:https://oj.leetcode.com/problems/add-two-numbers/
@@ -170,7 +170,6 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [5]:https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [6]:https://oj.leetcode.com/problems/unique-binary-search-trees/
 [7]:https://oj.leetcode.com/problems/reverse-integer/
-[7]:https://oj.leetcode.com/problems/linked-list-cycle/
 [8]:https://oj.leetcode.com/problems/binary-tree-inorder-traversal/
 [9]:https://oj.leetcode.com/problems/binary-tree-preorder-traversal/
 [10]:https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/
@@ -189,7 +188,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [23]:https://oj.leetcode.com/problems/swap-nodes-in-pairs/
 [24]:https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/
 [25]:https://oj.leetcode.com/problems/sort-colors/
-[26]:https://oj.leetcode.com/problems/merge-sorted-array/
+[26]:https://oj.leetcode.com/problems/edit-distance/
 [27]:https://oj.leetcode.com/problems/remove-element/
 [28]:https://oj.leetcode.com/problems/gray-code/
 [29]:https://oj.leetcode.com/problems/unique-paths/
@@ -251,7 +250,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [85]:https://oj.leetcode.com/problems/palindrome-partitioning/
 [86]:https://oj.leetcode.com/problems/validate-binary-search-tree/
 [87]:https://oj.leetcode.com/problems/add-binary/
-[88]:https://oj.leetcode.com/problems/edit-distance/
+[88]:https://oj.leetcode.com/problems/merge-sorted-array/
 [89]:https://oj.leetcode.com/problems/next-permutation/
 [90]:https://oj.leetcode.com/problems/insertion-sort-list/
 [91]:https://oj.leetcode.com/problems/reverse-nodes-in-k-group/
@@ -304,7 +303,7 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [138]:https://oj.leetcode.com/problems/minimum-window-substring/
 [139]:https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/
 [140]:https://oj.leetcode.com/problems/median-of-two-sorted-arrays/
-[141]:https://oj.leetcode.com/problems/3sum/
+[141]:https://oj.leetcode.com/problems/linked-list-cycle/
 [142]:https://oj.leetcode.com/problems/divide-two-integers/
 [143]:https://oj.leetcode.com/problems/word-break-ii/
 [144]:https://oj.leetcode.com/problems/decode-ways/
@@ -319,3 +318,4 @@ Fork from LeetCode solutions in C++ 11. (From Easy to Hard)
 [153]:https://oj.leetcode.com/problems/valid-number/
 [154]:https://oj.leetcode.com/problems/max-points-on-a-line/
 [155]:https://oj.leetcode.com/problems/n-queens-ii/
+[156]:https://oj.leetcode.com/problems/3sum/
